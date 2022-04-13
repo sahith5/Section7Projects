@@ -1,0 +1,15 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÜŞüÿÿÿÿ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(«ã•ıûÿÿÿÿ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ÿÜŞüÿÿÿÿ
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜‡™äøÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8·î²Í0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8à¿³Í0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿ8¤å³Í0
+<
+java:S1128"&Remove this unused import 'java.time'.(şÔ¡­
+A
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü
